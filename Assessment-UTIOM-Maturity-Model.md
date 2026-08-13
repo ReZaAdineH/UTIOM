@@ -19,6 +19,7 @@ A mature organization:
 
 Maturity is measured across the full UTIOM lifecycle.
 
+
 ---
 
 ## Maturity Levels
@@ -138,6 +139,10 @@ The UTIOM Maturity Model can be used to:
 - Support strategic planning and investment decisions
 
 The model is intended as a **guidance and improvement tool**, not as a certification or compliance checklist.
+
+online tool for free usage: https://utiom.xyz/
+
+guidelines and framework book free to use: https://utiom.de/
 
 ---
 
