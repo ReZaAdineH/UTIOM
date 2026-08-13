@@ -11,11 +11,11 @@ UTIOM connects strategy, threat modeling, detection engineering, response execut
 - A way to translate governance and strategy into day-to-day SOC and IR execution
 - An engineering-driven approach to visibility, detection, and response
 - A continuous improvement system treating security operations as a living product
+- An assessment tools
 
 ## What UTIOM is not
 - Not a compliance framework
 - Not a vendor model
-- Not a tool or product
 - Not a replacement for standards such as NIST, ISO, or SANS guidance
 
 ## Repository contents
